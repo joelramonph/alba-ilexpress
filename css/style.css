@@ -84,6 +84,15 @@ body {
 
 }
 
+.btn {
+
+	padding: 0.5rem;
+	background-color: #039be5;
+	color: white;
+	text-decoration-line: none;
+	border-radius: 10px;
+}
+
 .threeD {
 
 	text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171,168,168);
