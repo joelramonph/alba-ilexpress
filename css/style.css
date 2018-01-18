@@ -87,7 +87,7 @@ body {
 .btn {
 
 	padding: 0.5rem;
-	background-color: #039be5;
+	background-color: #AFB42B;
 	color: white;
 	border: #D4C31C;
 	text-decoration-line: none;
@@ -117,46 +117,45 @@ body {
 	z-index: 8;
 }
 
-}
+
 .delay-3{
 	animation-delay: 0.3s;
 	position: relative;
 	z-index: 7;
 }
-}
+
 .delay-4{
 	animation-delay: 0.4s;
 	position: relative;
 	z-index: 6;
 }
-}
+
 .delay-5{
 	animation-delay: 0.5s;
 	position: relative;
 	z-index: 5;
 }
-}
+
 .delay-6{
 	animation-delay: 0.6s;
 	position: relative;
 	z-index: 4;
 }
-}
+
 .delay-7{
 	animation-delay: 0.7s;
 	position: relative;
 	z-index: 3;
 }
-}
+
 .delay-8{
 	animation-delay: 0.8s;
 	position: relative;
 	z-index: 2;
 }
-}
+
 .delay-9{
 	animation-delay: 0.9s;
 	position: relative;
 	z-index: 1;
-}
 }
