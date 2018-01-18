@@ -94,8 +94,12 @@ body {
 	border-radius: 10px;
 	margin: 10px 20px;
 	display: inline-block;
+	transition: 0.3s;
 }
+ .btn:hover{
 
+ 	transform: scale(1.2);
+ }
 .threeD {
 
 	text-shadow: 1px 3px 0px #6b251d, 1px 13px 5px rgb(171,168,168);
