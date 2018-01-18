@@ -1,0 +1,11 @@
+commit 07611b16895cd85529e77f4df86bb523366402e9
+Author: joelramonph <joelramonph@gmail.com>
+Date:   Wed Jan 17 14:47:53 2018 -0400
+
+    agregamosun parrafo de descripcion a la pagina index
+
+commit 3dc175290310e9ac95e30554c8fc3f8afe8a53b5
+Author: joelramonph <joelramonph@gmail.com>
+Date:   Wed Jan 17 14:33:01 2018 -0400
+
+    primera version sitio web

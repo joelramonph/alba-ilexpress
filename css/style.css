@@ -89,8 +89,11 @@ body {
 	padding: 0.5rem;
 	background-color: #039be5;
 	color: white;
+	border: #D4C31C;
 	text-decoration-line: none;
 	border-radius: 10px;
+	margin: 10px 20px;
+	display: inline-block;
 }
 
 .threeD {
