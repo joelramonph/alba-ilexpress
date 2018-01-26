@@ -75,6 +75,35 @@ body {
 	margin-top: 10px;
 }
 
+.btn-opciones{
+	
+	
+
+	padding: 0.5rem;
+	background-color: #AFB42B;
+	color: white;
+	border: #D4C31C;
+	text-decoration-line: none;
+	border-radius: 10px;
+	margin: 10px 20px;
+	display: inline-block;
+	transition: 0.3s;
+	cursor: pointer;
+
+
+
+
+}
+
+.btn-opciones:hover{
+
+	transform: scale(1.2);
+
+
+}
+
+
+
 .card {
 
 	border-radius: 4px;
@@ -96,6 +125,8 @@ body {
 	display: inline-block;
 	transition: 0.3s;
 }
+
+
  .btn:hover{
 
  	transform: scale(1.2);
