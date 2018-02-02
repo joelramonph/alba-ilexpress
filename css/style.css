@@ -190,3 +190,83 @@ body {
 	position: relative;
 	z-index: 1;
 }
+
+.form-register {
+
+	width: 95%;
+	max-width: 500px;
+	margin: auto;
+	border-radius: 10px;
+}
+
+.form-cuenta {
+
+	background-color: #AFB42B;
+	color: #ffffff;
+	padding: 5%;
+	text-align: center;
+	font-weight: 100;
+	font-size: 20px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom: 5px solid #F45B69;
+
+}
+
+.inputs-container {
+
+	padding: 10 30px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+
+input{
+
+	margin-bottom: 15px;
+	padding: 15px;
+	font-size: 16px;
+	border-radius: 3px;
+	border: 1px solid darkgray;
+}
+
+.inputs-48 {
+
+	width: 48%
+
+}
+
+.inputs-100 {
+
+	width: 100%
+}
+
+.form-link {
+
+	width: 100%;
+	margin: 7px;
+	text-align: center;
+	font-size: 14px;
+}
+
+.btn-reg {
+
+	padding: 10px 40px;
+	background-color: #AFB42B;
+	color: white;
+	border: #D4C31C;
+	text-decoration-line: none;
+	border-radius: 10px;
+	margin: auto;
+	display: inline-block;
+	transition: 0.3s;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.btn-reg:hover{
+
+ 	transform: scale(1.2);
+ }
